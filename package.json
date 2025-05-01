@@ -1,0 +1,11 @@
+{
+  "name": "professionalsetup_backend",
+  "version": "1.0.0",
+  "description": "a setup for the professional backend developer",
+  "main": "index.js",
+  "scripts": {
+    "test": " javascript ,backend,chai"
+  },
+  "author": "purushottam singh rajput",
+  "license": "ISC"
+}
